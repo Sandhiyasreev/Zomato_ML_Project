@@ -71,7 +71,7 @@ Zomato-ML-Project/
 **Sandhiya Sree V**  
 📧 sandhiyasreev@gmail.com  
 🔗 [LinkedIn](https://www.linkedin.com/in/sandhiya-sree-v-3a2321298/)  
-🌐 [Github](https://github.com/Sandhiyasreev/Zomato_ML_Project)
+🌐 [Github](https://github.com/Sandhiyasreev)
 
 ---
 
